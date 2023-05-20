@@ -9,4 +9,4 @@
 </div>
 
 * 🌐 中文 · English
-* ⏰ 13:00 - 4:30 「[UTC+8](https://time.is/UTC+8)」
+* ⏰ 09:00 - 02:00 「[UTC+8](https://time.is/UTC+8)」
